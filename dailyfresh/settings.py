@@ -82,7 +82,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'dailyfresh_two',
         'USER': 'mysql',
-        'PASSWORD': 'mysql',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': 3306,
     }
@@ -126,7 +126,7 @@ EMAIL_PORT = 25
 # 发送邮件的邮箱
 EMAIL_HOST_USER = 'anchun717@163.com'
 # 在邮箱中设置的客户端授权密码
-EMAIL_HOST_PASSWORD = 'HCYYPGVXNZKGWXXK'
+EMAIL_HOST_PASSWORD = ''
 # 收件人看到的发件人
 EMAIL_FROM = 'tt<anchun717@163.com>'
 
