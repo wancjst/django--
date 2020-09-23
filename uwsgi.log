@@ -1,0 +1,299 @@
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep  5 11:12:10 2020] ***
+compiled with version: 5.4.0 20160609 on 05 September 2020 02:53:54
+os: Linux-4.4.0-187-generic #217-Ubuntu SMP Tue Jul 21 04:18:15 UTC 2020
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/python/django_student/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/python/.virtualenvs/dj_1/bin/uwsgi
+chdir() to /home/python/django_student/dailyfresh
+your processes number limit is 15565
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:41884 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Jul 17 2020, 14:04:10)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/python/.virtualenvs/dj_1
+Python main interpreter initialized at 0xe1f690
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416880 bytes (407 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0xe1f690 pid: 24818 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 24818)
+spawned uWSGI worker 1 (pid: 24820, cores: 2)
+spawned uWSGI worker 2 (pid: 24821, cores: 2)
+spawned uWSGI worker 3 (pid: 24822, cores: 2)
+spawned uWSGI worker 4 (pid: 24823, cores: 2)
+spawned uWSGI http 1 (pid: 24824)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 24824)
+worker 1 buried after 2 seconds
+worker 2 buried after 2 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep  5 11:15:24 2020] ***
+compiled with version: 5.4.0 20160609 on 05 September 2020 02:53:54
+os: Linux-4.4.0-187-generic #217-Ubuntu SMP Tue Jul 21 04:18:15 UTC 2020
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/python/django_student/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/python/.virtualenvs/dj_1/bin/uwsgi
+chdir() to /home/python/django_student/dailyfresh
+your processes number limit is 15565
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:40331 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Jul 17 2020, 14:04:10)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/python/.virtualenvs/dj_1
+Python main interpreter initialized at 0x1628690
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416880 bytes (407 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x1628690 pid: 25046 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 25046)
+spawned uWSGI worker 1 (pid: 25048, cores: 2)
+spawned uWSGI worker 2 (pid: 25049, cores: 2)
+spawned uWSGI worker 3 (pid: 25050, cores: 2)
+spawned uWSGI worker 4 (pid: 25051, cores: 2)
+spawned uWSGI http 1 (pid: 25052)
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep  5 11:17:04 2020] ***
+compiled with version: 5.4.0 20160609 on 05 September 2020 02:53:54
+os: Linux-4.4.0-187-generic #217-Ubuntu SMP Tue Jul 21 04:18:15 UTC 2020
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/python/django_student/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/python/.virtualenvs/dj_1/bin/uwsgi
+chdir() to /home/python/django_student/dailyfresh
+your processes number limit is 15565
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8080).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep  5 11:24:48 2020] ***
+compiled with version: 5.4.0 20160609 on 05 September 2020 02:53:54
+os: Linux-4.4.0-187-generic #217-Ubuntu SMP Tue Jul 21 04:18:15 UTC 2020
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/python/django_student/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/python/.virtualenvs/dj_1/bin/uwsgi
+chdir() to /home/python/django_student/dailyfresh
+your processes number limit is 15565
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8080).
+bind(): Address already in use [core/socket.c line 769]
+[pid: 25048|app: 0|req: 1/1] 127.0.0.1 () {38 vars in 699 bytes} [Sat Sep  5 11:29:37 2020] GET / => generated 74 bytes in 967 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 25048|app: 0|req: 2/2] 127.0.0.1 () {38 vars in 653 bytes} [Sat Sep  5 11:29:38 2020] GET /favicon.ico => generated 85 bytes in 7 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 25048|app: 0|req: 3/3] 127.0.0.1 () {40 vars in 730 bytes} [Sat Sep  5 13:22:24 2020] GET / => generated 74 bytes in 17 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 25052)
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep  5 13:30:27 2020] ***
+compiled with version: 5.4.0 20160609 on 05 September 2020 02:53:54
+os: Linux-4.4.0-187-generic #217-Ubuntu SMP Tue Jul 21 04:18:15 UTC 2020
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/python/django_student/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/python/.virtualenvs/dj_1/bin/uwsgi
+chdir() to /home/python/django_student/dailyfresh
+your processes number limit is 15565
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:40814 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Jul 17 2020, 14:04:10)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/python/.virtualenvs/dj_1
+Python main interpreter initialized at 0x22c7690
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416880 bytes (407 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x22c7690 pid: 26185 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 26185)
+spawned uWSGI worker 1 (pid: 26187, cores: 2)
+spawned uWSGI worker 2 (pid: 26188, cores: 2)
+spawned uWSGI worker 3 (pid: 26189, cores: 2)
+spawned uWSGI worker 4 (pid: 26190, cores: 2)
+spawned uWSGI http 1 (pid: 26191)
+设置缓存
+[pid: 26190|app: 0|req: 1/1] 127.0.0.1 () {38 vars in 709 bytes} [Sat Sep  5 13:31:19 2020] GET /index => generated 12783 bytes in 1521 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 26190|app: 0|req: 2/2] 127.0.0.1 () {38 vars in 691 bytes} [Sat Sep  5 13:31:20 2020] GET /static/css/reset.css => generated 94 bytes in 2 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 26190|app: 0|req: 3/3] 127.0.0.1 () {38 vars in 705 bytes} [Sat Sep  5 13:31:20 2020] GET /static/images/logo.png => generated 96 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 26187|app: 0|req: 1/4] 127.0.0.1 () {38 vars in 689 bytes} [Sat Sep  5 13:31:20 2020] GET /static/css/main.css => generated 93 bytes in 4399 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26188|app: 0|req: 2/5] 127.0.0.1 () {38 vars in 688 bytes} [Sat Sep  5 13:31:20 2020] GET /static/js/jquery-ui.min.js => generated 100 bytes in 4934 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26188|app: 0|req: 2/6] 127.0.0.1 () {38 vars in 672 bytes} [Sat Sep  5 13:31:20 2020] GET /static/js/slide.js => generated 92 bytes in 4942 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 26189|app: 0|req: 1/7] 127.0.0.1 () {38 vars in 696 bytes} [Sat Sep  5 13:31:20 2020] GET /static/js/jquery-1.12.4.min.js => generated 104 bytes in 5264 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26187|app: 0|req: 2/8] 127.0.0.1 () {38 vars in 705 bytes} [Sat Sep  5 13:31:26 2020] GET /static/images/logo.png => generated 96 bytes in 30 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 26191)
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep  5 13:53:59 2020] ***
+compiled with version: 5.4.0 20160609 on 05 September 2020 02:53:54
+os: Linux-4.4.0-187-generic #217-Ubuntu SMP Tue Jul 21 04:18:15 UTC 2020
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/python/django_student/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/python/.virtualenvs/dj_1/bin/uwsgi
+chdir() to /home/python/django_student/dailyfresh
+your processes number limit is 15565
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8080 fd 3
+Python version: 3.5.2 (default, Jul 17 2020, 14:04:10)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/python/.virtualenvs/dj_1
+Python main interpreter initialized at 0x23775c0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416880 bytes (407 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x23775c0 pid: 26637 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 26637)
+spawned uWSGI worker 1 (pid: 26639, cores: 2)
+spawned uWSGI worker 2 (pid: 26640, cores: 2)
+spawned uWSGI worker 3 (pid: 26641, cores: 2)
+spawned uWSGI worker 4 (pid: 26642, cores: 2)
+[pid: 26641|app: 0|req: 1/1] 127.0.0.1 () {42 vars in 774 bytes} [Sat Sep  5 14:07:48 2020] GET /index => generated 12783 bytes in 1484 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 26641|app: 0|req: 2/2] 127.0.0.1 () {46 vars in 842 bytes} [Sat Sep  5 14:07:50 2020] GET /static/css/reset.css => generated 94 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 26641|app: 0|req: 3/3] 127.0.0.1 () {42 vars in 748 bytes} [Sat Sep  5 14:07:50 2020] GET /static/js/jquery-ui.min.js => generated 100 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26641|app: 0|req: 4/4] 127.0.0.1 () {42 vars in 732 bytes} [Sat Sep  5 14:07:50 2020] GET /static/js/slide.js => generated 92 bytes in 10 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 26639|app: 0|req: 2/5] 127.0.0.1 () {46 vars in 841 bytes} [Sat Sep  5 14:07:50 2020] GET /static/css/main.css => generated 93 bytes in 3993 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26639|app: 0|req: 2/6] 127.0.0.1 () {42 vars in 756 bytes} [Sat Sep  5 14:07:50 2020] GET /static/js/jquery-1.12.4.min.js => generated 104 bytes in 3985 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 26640|app: 0|req: 1/7] 127.0.0.1 () {42 vars in 765 bytes} [Sat Sep  5 14:07:50 2020] GET /static/images/logo.png => generated 96 bytes in 4645 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+设置缓存
+[pid: 26640|app: 0|req: 2/8] 127.0.0.1 () {42 vars in 774 bytes} [Sat Sep  5 17:41:14 2020] GET /index => generated 12783 bytes in 754 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 26640|app: 0|req: 3/9] 127.0.0.1 () {42 vars in 749 bytes} [Sat Sep  5 17:41:15 2020] GET /static/css/main.css => generated 93 bytes in 6 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26641|app: 0|req: 6/10] 127.0.0.1 () {42 vars in 756 bytes} [Sat Sep  5 17:41:15 2020] GET /static/js/jquery-1.12.4.min.js => generated 104 bytes in 34 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 26641|app: 0|req: 6/11] 127.0.0.1 () {42 vars in 751 bytes} [Sat Sep  5 17:41:15 2020] GET /static/css/reset.css => generated 94 bytes in 47 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26639|app: 0|req: 3/12] 127.0.0.1 () {42 vars in 748 bytes} [Sat Sep  5 17:41:15 2020] GET /static/js/jquery-ui.min.js => generated 100 bytes in 29 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26641|app: 0|req: 7/13] 127.0.0.1 () {42 vars in 765 bytes} [Sat Sep  5 17:41:15 2020] GET /static/images/logo.png => generated 96 bytes in 5 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 26642|app: 0|req: 1/14] 127.0.0.1 () {42 vars in 732 bytes} [Sat Sep  5 17:41:15 2020] GET /static/js/slide.js => generated 92 bytes in 1009 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26639|app: 0|req: 4/15] 127.0.0.1 () {42 vars in 765 bytes} [Sat Sep  5 17:41:16 2020] GET /static/images/logo.png => generated 96 bytes in 6 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 26642|app: 0|req: 2/16] 127.0.0.1 () {42 vars in 774 bytes} [Sat Sep  5 17:41:34 2020] GET /index => generated 12783 bytes in 646 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 26641|app: 0|req: 8/17] 127.0.0.1 () {42 vars in 751 bytes} [Sat Sep  5 17:41:35 2020] GET /static/css/reset.css => generated 94 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26641|app: 0|req: 9/18] 127.0.0.1 () {42 vars in 749 bytes} [Sat Sep  5 17:41:35 2020] GET /static/css/main.css => generated 93 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 26640|app: 0|req: 4/19] 127.0.0.1 () {42 vars in 756 bytes} [Sat Sep  5 17:41:35 2020] GET /static/js/jquery-1.12.4.min.js => generated 104 bytes in 2 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26639|app: 0|req: 5/20] 127.0.0.1 () {42 vars in 748 bytes} [Sat Sep  5 17:41:35 2020] GET /static/js/jquery-ui.min.js => generated 100 bytes in 2 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26642|app: 0|req: 3/21] 127.0.0.1 () {42 vars in 732 bytes} [Sat Sep  5 17:41:35 2020] GET /static/js/slide.js => generated 92 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26640|app: 0|req: 5/22] 127.0.0.1 () {42 vars in 765 bytes} [Sat Sep  5 17:41:35 2020] GET /static/images/logo.png => generated 96 bytes in 8 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 26641|app: 0|req: 10/23] 127.0.0.1 () {42 vars in 774 bytes} [Sat Sep  5 17:43:44 2020] GET /index => generated 12783 bytes in 377 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 26639|app: 0|req: 6/24] 127.0.0.1 () {42 vars in 751 bytes} [Sat Sep  5 17:43:44 2020] GET /static/css/reset.css => generated 94 bytes in 2 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 26642|app: 0|req: 4/25] 127.0.0.1 () {42 vars in 749 bytes} [Sat Sep  5 17:43:44 2020] GET /static/css/main.css => generated 93 bytes in 2 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26642|app: 0|req: 5/26] 127.0.0.1 () {42 vars in 748 bytes} [Sat Sep  5 17:43:44 2020] GET /static/js/jquery-ui.min.js => generated 100 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 26640|app: 0|req: 6/27] 127.0.0.1 () {42 vars in 756 bytes} [Sat Sep  5 17:43:44 2020] GET /static/js/jquery-1.12.4.min.js => generated 104 bytes in 12 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26640|app: 0|req: 7/28] 127.0.0.1 () {42 vars in 732 bytes} [Sat Sep  5 17:43:44 2020] GET /static/js/slide.js => generated 92 bytes in 6 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 26641|app: 0|req: 11/29] 127.0.0.1 () {42 vars in 765 bytes} [Sat Sep  5 17:43:44 2020] GET /static/images/logo.png => generated 96 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26642|app: 0|req: 6/30] 127.0.0.1 () {42 vars in 774 bytes} [Sat Sep  5 17:44:08 2020] GET /index => generated 12783 bytes in 222 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 26641|app: 0|req: 12/31] 127.0.0.1 () {40 vars in 743 bytes} [Sat Sep  5 18:09:54 2020] GET /index => generated 12783 bytes in 482 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 26642|app: 0|req: 7/32] 127.0.0.1 () {40 vars in 743 bytes} [Sat Sep  5 18:09:54 2020] GET /index => generated 12783 bytes in 408 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 1)
+设置缓存
+设置缓存
+[pid: 26641|app: 0|req: 14/33] 127.0.0.1 () {40 vars in 743 bytes} [Sat Sep  5 19:29:30 2020] GET /index => generated 12783 bytes in 767 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 26641|app: 0|req: 14/34] 127.0.0.1 () {40 vars in 743 bytes} [Sat Sep  5 19:29:30 2020] GET /index => generated 12783 bytes in 651 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 26641|app: 0|req: 15/35] 127.0.0.1 () {40 vars in 743 bytes} [Sat Sep  5 19:56:03 2020] GET /idnex => generated 79 bytes in 9 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 26641|app: 0|req: 17/36] 127.0.0.1 () {40 vars in 743 bytes} [Sat Sep  5 19:56:09 2020] GET /index => generated 12783 bytes in 445 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 26641|app: 0|req: 17/37] 127.0.0.1 () {40 vars in 743 bytes} [Sat Sep  5 19:56:09 2020] GET /index => generated 12783 bytes in 437 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 26641|app: 0|req: 18/38] 127.0.0.1 () {40 vars in 753 bytes} [Sat Sep  5 19:56:19 2020] GET /index.html => generated 84 bytes in 5 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 26639|app: 0|req: 7/39] 127.0.0.1 () {40 vars in 743 bytes} [Sat Sep  5 19:56:22 2020] GET /index => generated 12783 bytes in 448 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 26639|app: 0|req: 8/40] 127.0.0.1 () {40 vars in 733 bytes} [Sat Sep  5 19:57:51 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+...brutally killing workers...
+Gracefully killing worker 3 (pid: 26641)...
+Gracefully killing worker 4 (pid: 26642)...
+Gracefully killing worker 1 (pid: 26639)...
+Gracefully killing worker 2 (pid: 26640)...
+worker 1 buried after 2 seconds
+worker 2 buried after 2 seconds
+worker 3 buried after 2 seconds
+worker 4 buried after 2 seconds
+binary reloading uWSGI...
+chdir() to /home/python/django_student/dailyfresh
+closing all non-uwsgi socket fds > 2 (max_fd = 1048576)...
+found fd 3 mapped to socket 0 (127.0.0.1:8080)
+running /home/python/.virtualenvs/dj_1/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep  5 21:05:27 2020] ***
+compiled with version: 5.4.0 20160609 on 05 September 2020 02:53:54
+os: Linux-4.4.0-187-generic #217-Ubuntu SMP Tue Jul 21 04:18:15 UTC 2020
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/python/django_student/dailyfresh
+detected binary path: /home/python/.virtualenvs/dj_1/bin/uwsgi
+chdir() to /home/python/django_student/dailyfresh
+your processes number limit is 15565
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited INET address 127.0.0.1:8080 fd 3
+Python version: 3.5.2 (default, Jul 17 2020, 14:04:10)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/python/.virtualenvs/dj_1
+Python main interpreter initialized at 0x2329f60
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416880 bytes (407 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 2 seconds on interpreter 0x2329f60 pid: 26637 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 26637)
+spawned uWSGI worker 1 (pid: 28861, cores: 2)
+spawned uWSGI worker 2 (pid: 28862, cores: 2)
+spawned uWSGI worker 3 (pid: 28863, cores: 2)
+spawned uWSGI worker 4 (pid: 28864, cores: 2)
